@@ -13,3 +13,11 @@
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+<details><summary><b>Languages and Tools I've Used</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,bootstrap,git,github,vscode&perline=7" />
+</p>
+<br><br>
+
+</details>
