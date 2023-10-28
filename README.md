@@ -9,7 +9,7 @@
 </p>
 
 ## 🙋‍♂️ About Me
-- 🏫 I'm 3rd year student pursuing Bachelors in Information science and  Engineering @Mvjce bangalore.
+- 🏫 I'm 4th year student pursuing Bachelors in Information science and  Engineering @Mvjce bangalore.
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
