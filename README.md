@@ -16,7 +16,7 @@
 <details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,bootstrap,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,bootstrap,git,github,vscode,flask,python,elasticsearch&perline=7" />
 </p>
 <br><br>
 
