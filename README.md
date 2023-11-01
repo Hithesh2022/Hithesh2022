@@ -12,7 +12,7 @@
 - 🏫 I'm 4th year student pursuing Bachelors in Information science and  Engineering @Mvjce bangalore.
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hithesh2022&label=Profile%20views&color=0e75b6&style=flat" alt="hithesh" /> </p>
 <details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
