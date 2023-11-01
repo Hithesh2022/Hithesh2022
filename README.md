@@ -21,3 +21,7 @@
 <br><br>
 
 </details>
+<h3>MY BADGES</h3>
+<p align="center">
+    [![An image of @hithesh2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hithesh2022)](https://holopin.io/@hithesh2022)
+</p>
