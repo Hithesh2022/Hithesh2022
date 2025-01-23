@@ -9,14 +9,14 @@
 </p>
 
 ## 🙋‍♂️ About Me
-- 🏫 I'm 4th year student pursuing Bachelors in Information science and  Engineering @Mvjce bangalore.
-- 💬 Ask me about **Web Development**
+- 🏫 I'm a passionate Software Engineer with over 1.5 years of hands-on experience in developing robust and scalable                     applications.
+- 💬 Ask me about **Web Development**,**MicroServices**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,bootstrap,git,github,vscode,flask,python,jquery&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,bootstrap,git,github,vscode,flask,python,jquery,springboot,docker,kubernectes&perline=7" />
 </p>
 <br><br>
 
